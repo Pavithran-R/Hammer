@@ -7,9 +7,9 @@ $ apt install git
 $ apt install dnsutils
 $ git clone https://github.com/Pavithran-R/Hammer/
 
-Hammer need the <b>Name Server</b> of a website which you want to attack...
+Hammer need the Name Server of a website which you want to attack...
 To get the Name Server...just type
-$ <b>nslookup example.com<b>
+$ nslookup example.com
 Note the IP Address of that Website
 
 then
